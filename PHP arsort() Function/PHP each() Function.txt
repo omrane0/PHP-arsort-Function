@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$people = array("Peter", "Joe", "Glenn", "Cleveland");
+print_r (each($people));
+?>
+
+</body>
+</html>
+
+
+
+
+Array ( [1] => Peter [value] => Peter [0] => 0 [key] => 0 )
